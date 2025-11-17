@@ -198,7 +198,7 @@
   
   ### 💡 "If you can't find it, then make it" – My Philosophy
   
-  **⭐️ From [Jakkaraju Varshith](https://portfolio.agentj.me) | Let's secure the digital world together! 🔴🛡️**
+  **⭐️ From [Jakkaraju Varshith](0xob5k-j.github.io) | Let's secure the digital world together! 🔴🛡️**
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </div>
