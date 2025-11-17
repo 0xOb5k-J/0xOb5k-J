@@ -36,55 +36,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&section=header" width="100%"/>
-</p>
-
-### 🎯 Core Competencies
-
-<div align="center">
-
-| 🔴 **OFFENSIVE** | 🔵 **DEFENSIVE** | 🤖 **INNOVATION** |
-|:---:|:---:|:---:|
-| Red Team Operations | Digital Forensics (DFIR) | AI Security Automation |
-| Exploit Development | Threat Hunting | MCP Server Development |
-| Malware Analysis | Incident Response | GenAI Integration |
-| C2 Infrastructure | Memory Forensics | Tool Development |
-| MITRE ATT&CK | MITRE D3FEND | Workflow Automation |
-
-</div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,14,20&height=3&section=header" width="100%"/>
-</p>
-
-### 🚀 AI-Powered Security Projects
-
-<div align="center">
-
-| Project | Description | Status |
-|:--------|:------------|:------:|
-| **Impacket-MCP** | AI-Powered Impacket Suite for offensive security automation | 🟢 Active |
-| **Volatility3-MCP** | AI-integrated memory forensics with batch execution | 🟢 Active |
-| **IDApro-MCP** | AI-assisted reverse engineering framework | 🟢 Active |
-| **Havoc-MCP** | AI-assisted Havoc C2 for automated operations | 🟢 Active |
-
-</div>
-
----
-
-<div align="center">
-
-### 🎯 Current Learning Path
-
-![Binary Fuzzing](https://img.shields.io/badge/Learning-Binary%20Fuzzing-red?style=flat-square&logo=hackaday&logoColor=white)
-![Exploit Dev](https://img.shields.io/badge/Learning-Advanced%20Exploit%20Development-darkred?style=flat-square&logo=metasploit&logoColor=white)
-![C2 Infrastructure](https://img.shields.io/badge/Learning-C2%20Infrastructure-crimson?style=flat-square&logo=hackthebox&logoColor=white)
-
-</div>
-
----
-
 ### 🛠️ Tech Stack
 
 <div align="center">
@@ -165,36 +116,6 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=0xOb5k-J&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
-
----
-
-### 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **[Impacket-MCP](https://github.com/0xOb5k-J/impacket-mcp)** 🔴 | AI-Powered Impacket Suite for offensive security automation | Python, AI, MCP |
-| **[Volatility3-MCP](https://github.com/0xOb5k-J/volatility3-mcp)** 🔍 | AI-integrated memory forensics with batch execution support | Python, Volatility3, AI |
-| **[IDApro-MCP](https://github.com/0xOb5k-J/idapro-mcp)** 🛠️ | AI-assisted reverse engineering with multi-instance packer analysis | Python, IDA Pro, AI |
-| **[Havoc-MCP](https://github.com/0xOb5k-J/havoc-mcp)** ⚔️ | AI-assisted Havoc C2 for automated payload creation & command execution | Python, Havoc, AI |
-| **Self-Deleting Exploit** 💀 | Windows 11 advanced process injection with stealth self-deletion | C, Assembly, Windows API |
-
-</div>
-
----
-
-### 🎯 Current Focus
-
-```ascii
-┌─────────────────────────────────────────────────────────────┐
-│  ⚔️  Red Team Operations & Live-Fire Exercises              │
-│  🔓 Exploit Development & Advanced Malware Analysis         │
-│  🤖 AI-Driven Security Automation & MCP Servers             │
-│  🔍 Threat Hunting & Digital Forensics (DFIR)               │
-│  📚 Binary Fuzzing & Reverse Engineering (CBFRPro)          │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ---
 
