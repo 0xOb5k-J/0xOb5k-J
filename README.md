@@ -38,65 +38,118 @@
 
 ### 🛠️ Tech Stack
 
-<div align="center">
+<details>
+<summary><b>💻 Languages & Scripting</b></summary>
+<br>
 
-#### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-#### Offensive Security
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white)
-![Havoc C2](https://img.shields.io/badge/Havoc_C2-8B0000?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Sliver C2](https://img.shields.io/badge/Sliver_C2-DC143C?style=for-the-badge&logo=linux&logoColor=white)
-![Mythic C2](https://img.shields.io/badge/Mythic_C2-4B0082?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Empire C2](https://img.shields.io/badge/Empire_C2-8B0000?style=for-the-badge&logo=windows&logoColor=white)
-![Impacket](https://img.shields.io/badge/Impacket-000000?style=for-the-badge&logo=python&logoColor=white)
+</details>
 
-#### Forensics & Incident Response
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-0078D4?style=for-the-badge&logo=hex-rays&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=for-the-badge&logo=ghidra&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-000000?style=for-the-badge&logo=memory&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-4B275F?style=for-the-badge&logo=autopsy&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![REMnux](https://img.shields.io/badge/REMnux-2E8B57?style=for-the-badge&logo=linux&logoColor=white)
-![FLARE-VM](https://img.shields.io/badge/FLARE_VM-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![MobSF](https://img.shields.io/badge/MobSF-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Cuckoo](https://img.shields.io/badge/Cuckoo_Sandbox-FFD700?style=for-the-badge&logo=python&logoColor=black)
+<details>
+<summary><b>⚔️ Offensive Security</b></summary>
+<br>
 
-#### Frameworks
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=for-the-badge&logo=mitre&logoColor=white)
-![MITRE D3FEND](https://img.shields.io/badge/MITRE_D3FEND-0066CC?style=for-the-badge&logo=shield&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kali-linux&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burp-suite&logoColor=white)
+![Havoc C2](https://img.shields.io/badge/Havoc_C2-8B0000?style=flat-square&logo=hackthebox&logoColor=white)
+![Sliver C2](https://img.shields.io/badge/Sliver_C2-DC143C?style=flat-square&logo=linux&logoColor=white)
+![Mythic C2](https://img.shields.io/badge/Mythic_C2-4B0082?style=flat-square&logo=hackthebox&logoColor=white)
+![Empire C2](https://img.shields.io/badge/Empire_C2-8B0000?style=flat-square&logo=windows&logoColor=white)
+![Impacket](https://img.shields.io/badge/Impacket-000000?style=flat-square&logo=python&logoColor=white)
 
-#### AI & Automation
-![MCP](https://img.shields.io/badge/Model_Context_Protocol-00A4EF?style=for-the-badge&logo=protocol&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+</details>
 
-</div>
+<details>
+<summary><b>🔍 Forensics & Incident Response</b></summary>
+<br>
+
+![IDA Pro](https://img.shields.io/badge/IDA_Pro-0078D4?style=flat-square&logo=hex-rays&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-DC143C?style=flat-square&logo=ghidra&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-000000?style=flat-square&logo=memory&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-4B275F?style=flat-square&logo=autopsy&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![REMnux](https://img.shields.io/badge/REMnux-2E8B57?style=flat-square&logo=linux&logoColor=white)
+![FLARE-VM](https://img.shields.io/badge/FLARE_VM-0078D6?style=flat-square&logo=windows&logoColor=white)
+![MobSF](https://img.shields.io/badge/MobSF-3DDC84?style=flat-square&logo=android&logoColor=white)
+![Cuckoo](https://img.shields.io/badge/Cuckoo_Sandbox-FFD700?style=flat-square&logo=python&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🎯 Frameworks & Cloud</b></summary>
+<br>
+
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT&CK-FF0000?style=flat-square&logo=mitre&logoColor=white)
+![MITRE D3FEND](https://img.shields.io/badge/MITRE_D3FEND-0066CC?style=flat-square&logo=shield&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 AI & Automation</b></summary>
+<br>
+
+![MCP](https://img.shields.io/badge/Model_Context_Protocol-00A4EF?style=flat-square&logo=protocol&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+</details>
 
 ---
 
-### 📜 Certifications
+### 📜 Professional Certifications
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-CRTA-FF0000?style=for-the-badge&logo=security&logoColor=white" alt="CRTA"/>
+<br><sub><b>Certified Red Team Analyst</b></sub>
+<br><sub>CyberWarfare Labs</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-CRT--ID-DC143C?style=for-the-badge&logo=dev.to&logoColor=white" alt="CRT-ID"/>
+<br><sub><b>Red Team Infrastructure Developer</b></sub>
+<br><sub>CyberWarfare Labs</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft"/>
+<br><sub><b>Cybersecurity Architect</b></sub>
+<br><sub>Microsoft</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-CNSP-4169E1?style=for-the-badge&logo=network&logoColor=white" alt="CNSP"/>
+<br><sub><b>Certified Network Security Practitioner</b></sub>
+<br><sub>The SecOps Group</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-ISO%2FIEC%2027001-0066CC?style=for-the-badge&logo=iso&logoColor=white" alt="ISO"/>
+<br><sub><b>ISO/IEC 27001:2022 Lead Auditor</b></sub>
+<br><sub>Mastermind</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/-CBFRPro-FF8C00?style=for-the-badge&logo=codacy&logoColor=white" alt="CBFRPro"/>
+<br><sub><b>Binary Fuzzing & Reversing Pro</b></sub>
+<br><sub>⏳ In Progress</sub>
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-![CRTA](https://img.shields.io/badge/CRTA-Certified_Red_Team_Analyst-red?style=for-the-badge&logo=security&logoColor=white)
-![CRT-ID](https://img.shields.io/badge/CRT--ID-Certified_Red_Team_Infrastructure_Developer-darkred?style=for-the-badge&logo=dev.to&logoColor=white)
-![Microsoft](https://img.shields.io/badge/Microsoft-Cybersecurity_Architect-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![CNSP](https://img.shields.io/badge/CNSP-Certified_Network_Security_Practitioner-blue?style=for-the-badge&logo=network&logoColor=white)
-![ISO](https://img.shields.io/badge/ISO%2FIEC_27001%3A2022-Lead_Auditor-0066CC?style=for-the-badge&logo=iso&logoColor=white)
-![CBFRPro](https://img.shields.io/badge/CBFRPro-In_Progress-orange?style=for-the-badge&logo=codacy&logoColor=white)
+**🎯 Multiple OPSWAT Associate Certifications** | **🏅 Windows & Advanced Forensics - Belkasoft** | **🔍 OSForensics Triage - PassMark**
 
 </div>
 
