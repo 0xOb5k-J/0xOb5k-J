@@ -4,7 +4,7 @@
 
 <div align="center">
   
-  ### 🔴 Security Researcher | Red Team Operator | Exploit Developer | DFIR Specialist
+  ### 🔴 Offensive Security Researcher | Exploit Developer | DFIR
   
   <p>
     <a href="https://github.com/0xOb5k-J">
